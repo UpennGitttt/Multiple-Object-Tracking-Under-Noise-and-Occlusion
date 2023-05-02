@@ -18,7 +18,7 @@ calculate mean and covariance after incorporate our observations:
 
 <img width="386" alt="Screen Shot 2023-05-02 at 11 07 38 AM" src="https://user-images.githubusercontent.com/98191838/235707373-ff6ebef0-8863-47d6-af32-2b799cb0d630.png">
 
-A few results for EKF and KF tracker under 2D and 3D cases:
+A few results for EKF and KF tracker under 2D and 3D cases(Blue trajectory is Apriltag ground truth trajectory and green trajectory is the filter prediction):
 
 ![Screen Shot 2023-05-02 at 11 10 26 AM](https://user-images.githubusercontent.com/98191838/235708124-85401178-e363-4331-af99-3f864e40d02f.png)
 
